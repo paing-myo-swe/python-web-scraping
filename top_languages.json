@@ -1,0 +1,102 @@
+[
+    {
+        "rank": "1",
+        "language": "Python",
+        "ratings": "23.28%"
+    },
+    {
+        "rank": "2",
+        "language": "C++",
+        "ratings": "10.29%"
+    },
+    {
+        "rank": "3",
+        "language": "Java",
+        "ratings": "10.15%"
+    },
+    {
+        "rank": "4",
+        "language": "C",
+        "ratings": "8.86%"
+    },
+    {
+        "rank": "5",
+        "language": "C#",
+        "ratings": "4.45%"
+    },
+    {
+        "rank": "6",
+        "language": "JavaScript",
+        "ratings": "4.20%"
+    },
+    {
+        "rank": "7",
+        "language": "Go",
+        "ratings": "2.61%"
+    },
+    {
+        "rank": "8",
+        "language": "SQL",
+        "ratings": "2.41%"
+    },
+    {
+        "rank": "9",
+        "language": "Visual Basic",
+        "ratings": "2.37%"
+    },
+    {
+        "rank": "10",
+        "language": "Fortran",
+        "ratings": "2.04%"
+    },
+    {
+        "rank": "11",
+        "language": "Delphi/Object Pascal",
+        "ratings": "1.79%"
+    },
+    {
+        "rank": "12",
+        "language": "Scratch",
+        "ratings": "1.55%"
+    },
+    {
+        "rank": "13",
+        "language": "PHP",
+        "ratings": "1.38%"
+    },
+    {
+        "rank": "14",
+        "language": "Rust",
+        "ratings": "1.16%"
+    },
+    {
+        "rank": "15",
+        "language": "MATLAB",
+        "ratings": "1.07%"
+    },
+    {
+        "rank": "16",
+        "language": "Ruby",
+        "ratings": "1.06%"
+    },
+    {
+        "rank": "17",
+        "language": "Assembly language",
+        "ratings": "1.01%"
+    },
+    {
+        "rank": "18",
+        "language": "R",
+        "ratings": "1.00%"
+    },
+    {
+        "rank": "19",
+        "language": "Swift",
+        "ratings": "0.99%"
+    },
+    {
+        "rank": "20",
+        "language": "COBOL",
+        "ratings": "0.95%"
+    }
+]
